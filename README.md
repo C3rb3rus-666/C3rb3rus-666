@@ -10,6 +10,7 @@
 - 🌱 &nbsp; Me encanta la ciberseguridad como el uso de redes neuronales.
 - ✍️ &nbsp; Mis pasatiempos es escuchar musica y enseñar de mis conocimientos a los nuevos en el mundo de la programacion.
 - ☕ &nbsp; un buen cafe caliente o cerveza a la hora de codificar desde mi vscode o mi vim lo es todo para el estres. 
+- 😄 &nbsp; a la hora de desarrollar para alguna distro python es mi favorito <3 
 
 <h3>🛠 mis herramientas</h3>
 
