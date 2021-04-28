@@ -1,4 +1,4 @@
-<h2> Hola soy carlos :)  <img src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/master/Hi.gif" width="25"></h2>
+<h2> Hola soy carlos :)  <img src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/C3rb3rus-666/C3rb3rus-666/blob/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Acerca de mi </h3>
