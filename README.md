@@ -1,5 +1,5 @@
 <h2> Hola soy carlos :)  <img src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/8b853202-e1da-48c6-b40e-481b4e27ca60.jpeg" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/8b853202-e1da-48c6-b40e-481b4e27ca60.jpg" width="500"/>
 
 <h3> 👨🏻‍💻 Acerca de mi </h3>
 
