@@ -1,5 +1,5 @@
 <h2> Hola soy carlos :)  <img src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/8b853202-e1da-48c6-b40e-481b4e27ca60.jpg" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/main/bob/8b853202-e1da-48c6-b40e-481b4e27ca60.jepg" width="500"/>
 
 <h3> 👨🏻‍💻 Acerca de mi </h3>
 
@@ -25,8 +25,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=C3rb3rus-666&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="C3rb3rus-666's Github Stats">
 
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3rb3rus-666&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/C3rb3rus-666/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3rb3rus-666&theme=radical&title_color=8E2DE2&text_color=fff)
 
