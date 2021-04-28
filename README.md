@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3rb3rus-666&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/C3rb3rus-666/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3rb3rus-666&theme=radical&title_color=8E2DE2&text_color=fff)
 
 
 ⭐️ From [C3rb3rus-666](https://github.com/C3rb3rus-666)
