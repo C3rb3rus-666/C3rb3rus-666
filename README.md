@@ -1,4 +1,4 @@
-<h2> Hola soy carlos :3  <img src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/master/Hi.gif" width="25"></h2>
+<h2> Hola soy carlos :)  <img src="https://github.com/C3rb3rus-666/C3rb3rus-666/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/C3rb3rus-666/C3rb3rus-666/blob/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Acerca de mi </h3>
@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploro siempre nuevas maneras de optimizar mis proyectosy corregir mis errores pasados.
 - 🎓 &nbsp; Soy estudiante de ing en sistemas y enfermeria.
 - 💼 &nbsp; programador desde linux | programador back-end.
-- 🌱 &nbsp; Me encanta la ciberseguridad como el uso de redes neuronales.
+- 🌱 &nbsp; Me encanta la ciberseguridad  como el uso de redes neuronales.
 - ✍️ &nbsp; Mis pasatiempos es escuchar musica y enseñar de mis conocimientos a los nuevos en el mundo de la programacion.
 - ☕ &nbsp; un buen cafe caliente o cerveza a la hora de codificar desde mi vscode o mi vim lo es todo para el estres. 
 - 😄 &nbsp; a la hora de desarrollar para alguna distro python es mi favorito <3 
