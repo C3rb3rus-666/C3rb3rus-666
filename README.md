@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 Acerca de mi </h3>
 
 - 🔭 &nbsp; Actualmente estoy aprendiendo el uso de nuevos lenguajes como Goland y RUST
-- 🤔 &nbsp; Exploro siempre nuevas maneras de optimizar mis proyectosy corregir mis errores pasados.
+- 🤔 &nbsp; Exploro siempre nuevas maneras de optimizar mis proyectos y corregir mis errores pasados.
 - 🎓 &nbsp; Soy estudiante de ing en sistemas y enfermeria.
 - 💼 &nbsp; programador desde linux | programador back-end.
 - 🌱 &nbsp; Me encanta la ciberseguridad  como el uso de redes neuronales.
