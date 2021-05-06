@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | C | C++ | java | Perl | bash    
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; vim | PyCharm | Visual Studio code | dev-c++ | Visual Studio Comunity 
+- 🔧 &nbsp; vim | PyCharm | Visual Studio code | dev-c++ | Visual Studio Comunity | NetBeans
 - 🖥 &nbsp; Photoshop 
 
 <br>
