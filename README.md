@@ -3,23 +3,23 @@
 
 <h3> 👨🏻‍💻 Acerca de mi </h3>
 
-- 🔭 &nbsp; Actualmente estoy aprendiendo el uso de nuevos lenguajes como Goland y RUST
-- 🤔 &nbsp; Exploro siempre nuevas maneras de optimizar mis proyectos y corregir mis errores pasados.
-- 🎓 &nbsp; Soy estudiante de ing en sistemas y enfermeria.
-- 💼 &nbsp; programador desde linux | programador back-end.
-- 🌱 &nbsp; Me encanta la ciberseguridad  como el uso de redes neuronales.
-- ✍️ &nbsp; Mis pasatiempos es escuchar musica y enseñar de mis conocimientos a los nuevos en el mundo de la programacion.
-- ☕ &nbsp; un buen cafe caliente o cerveza a la hora de codificar desde mi vscode o mi vim lo es todo para el estres. 
-- 😄 &nbsp; a la hora de desarrollar para alguna distro python es mi favorito <3
-- 😄 &nbsp; acostumbro a dejar mis nuevos proyectos en privado 
+- 🔭 &nbsp; Actualmente estoy aprendiendo el uso de nuevos lenguajes como Goland y RUST  
+- 🤔 &nbsp; Exploro siempre nuevas maneras de optimizar mis proyectos y corregir mis errores pasados.  
+- 🎓 &nbsp; Soy estudiante de ing en sistemas y enfermería.  
+- 💼 &nbsp; Programador desde Linux | Programador back-end.  
+- 🌱 &nbsp; Me encanta la ciberseguridad como el uso de redes neuronales.  
+- ✍️ &nbsp; Mis pasatiempos son escuchar música y enseñar de mis conocimientos a los nuevos en el mundo de la programación.  
+- ☕ &nbsp; Un buen café caliente o cerveza a la hora de codificar desde mi VSCode o mi Vim lo es todo para el estrés.  
+- 😄 &nbsp; A la hora de desarrollar para alguna distro, Python es mi favorito <3  
+- 😄 &nbsp; Acostumbro a dejar mis nuevos proyectos en privado.  
 
-<h3>🛠 mis herramientas</h3>
+<h3>🛠 Mis herramientas</h3>
 
-- 💻 &nbsp; Python | C | C++ | java | Perl | bash    
+- 💻 &nbsp; Python | C | C++ | Java | Perl | Bash    
 - 🌐 &nbsp; HTML | CSS | JavaScript  
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; vim | PyCharm | Visual Studio code | dev-c++ | Visual Studio Comunity | NetBeans
-- 🖥 &nbsp; Photoshop 
+- 🛢 &nbsp; MySQL | Xampp  
+- 🔧 &nbsp; Vim | PyCharm | Visual Studio Code | Dev-C++ | Visual Studio Community | NetBeans  
+- 🖥 &nbsp; Photoshop  
 
 <br>
 
@@ -27,7 +27,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3rb3rus-666&theme=radical&title_color=8E2DE2&text_color=fff&cache_seconds=1800)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3rb3rus-666&theme=radical&title_color=8E2DE2&text_color=fff&cache_seconds=1800" />
 
 ⭐️ From [C3rb3rus-666](https://github.com/C3rb3rus-666)
+
